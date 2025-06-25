@@ -8,6 +8,10 @@ A simple **Stone Paper Scissors** game built with **HTML, CSS, and JavaScript**.
 - CSS  
 - JavaScript
 
+## 🔗 Live Demo
+
+[Click here to play now](https://titiksha95.github.io/Stone-Paper-Scissors/)  
+
 ## 📦 How to Run  
 1. Clone the repo  
 2. Open `index.html` in a browser
